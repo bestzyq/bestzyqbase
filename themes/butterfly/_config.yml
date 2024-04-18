@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: /img/chinazyq.jpg
+  logo: https://picx.zhimg.com/v2-8465be313991488abe3c1eb899c5acff_xll.jpg
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -41,11 +41,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: https://picx.zhimg.com/v2-8465be313991488abe3c1eb899c5acff_xll.jpg
 
 # Avatar (頭像)
 avatar:
-  img: /img/chinazyq.jpg
+  img: https://picx.zhimg.com/v2-8465be313991488abe3c1eb899c5acff_xll.jpg
   effect: false
 
 # Disable all banner image
