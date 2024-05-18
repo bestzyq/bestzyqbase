@@ -2,7 +2,7 @@
 title: 关于
 date: 2024-05-16 23:05:20
 ---
-
+<!--
 ### Hi there 👋
 
 - 🔭 I’m currently a student of [East China University of Science and Technology](https://ecust.edu.cn/en/main.psp), majoring in Energy and Power Engineering, minoring in Computer Science and Technology.
@@ -10,6 +10,7 @@ date: 2024-05-16 23:05:20
 - 📫 How to reach me: [chinazyq@mail.ecust.edu.cn](mailto:chinazyq@mail.ecust.edu.cn)
 
 ✨ Have a nice day! ✨
+-->
 
 <!--
 **chinazyq123/chinazyq123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
