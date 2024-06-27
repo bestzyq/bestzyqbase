@@ -34,7 +34,7 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-git-alt: https://gitee.com/chinazyq || Gitee || '#24292e'
+  fab fa-git-alt: https://gitee.com/chinazyq || Gitee || '#e61800'
   fas fa-envelope: mailto:bestzyq@foxmail.com || Email || '#4a7dbe'
 
 # Image (圖片設置)
