@@ -10,11 +10,11 @@
       descr: Palpitate's Blog
     - name: Eric
       link: https://www.ecust.icu/
-      avatar: https://jsdelivr.ecustvr.top/gh/UKEricPZ/blogimage@main/b_807cbe92f38534bcbeb84c002fa31985.jpg
+      avatar: https://cdn.jsdelivr.net/gh/UKEricPZ/blogimage@main/b_807cbe92f38534bcbeb84c002fa31985.jpg
       descr: 老张的后花园
     - name: Holo
       link: http://blog.holo19.fun/
-      avatar: https://jsdelivr.ecustvr.top/gh/hololo19/hololo19.github.io@master/img/avatar.jpg
+      avatar: https://cdn.jsdelivr.net/gh/hololo19/hololo19.github.io@master/img/avatar.jpg
       descr: Holoの窝
     - name: 辉夜
       link: https://teruenight.github.io/
@@ -22,7 +22,7 @@
       descr: 尘世之外の咖啡屋
     - name: UKEricPZ
       link: https://blog.ukericpz.com/
-      avatar: https://jsdelivr.ecustvr.top/gh/UKEricPZ/blogimage@main/avatar.png
+      avatar: https://cdn.jsdelivr.net/gh/UKEricPZ/blogimage@main/avatar.png
       descr: 乆鸽 UKEricPZ
       
 - class_name: 组织
