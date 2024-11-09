@@ -12,7 +12,7 @@ categories: 网络
 ## 设备/资源
 1. 软路由（Mi Router 3 Pro）
 2. 固件：https://openwrt.ai/
-3. Gitee: https://gitee.com/chinazyq/ECUST-openwrt
+3. Gitee: https://gitee.com/bestzyq/ECUST-openwrt
 
 ## 配置
 ### 前置准备
@@ -47,7 +47,7 @@ opkg install luci-app-mwan3
 ```
 ```
 # 下载配置文件
-wget -O /etc/config/mwan3 https://gitee.com/chinazyq/ECUST-openwrt/raw/master/mwan3
+wget -O /etc/config/mwan3 https://gitee.com/bestzyq/ECUST-openwrt/raw/master/mwan3
 ```
 ```
 # 重新启动mwan3服务
@@ -64,7 +64,7 @@ opkg install luci-app-mwan3
 ```
 ```
 # 下载配置文件
-wget -O /etc/config/mwan3 https://gitee.com/chinazyq/ECUST-openwrt/raw/master/mwan3_onlyschool
+wget -O /etc/config/mwan3 https://gitee.com/bestzyq/ECUST-openwrt/raw/master/mwan3_onlyschool
 ```
 ```
 # 重新启动mwan3服务
@@ -75,20 +75,20 @@ wget -O /etc/config/mwan3 https://gitee.com/chinazyq/ECUST-openwrt/raw/master/mw
 1. 教育网cernet、校内地址走校园网，其它走宽带
 ```
 #使用curl安装
-export url='https://gitee.com/chinazyq/ECUST-openwrt/raw/master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
+export url='https://gitee.com/bestzyq/ECUST-openwrt/raw/master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
 ```
 ```
 #使用wget安装
-export url='https://gitee.com/chinazyq/ECUST-openwrt/raw/master' && wget -q --no-check-certificate -O /tmp/install.sh $url/install.sh  && sh /tmp/install.sh && source /etc/profile &> /dev/null
+export url='https://gitee.com/bestzyq/ECUST-openwrt/raw/master' && wget -q --no-check-certificate -O /tmp/install.sh $url/install.sh  && sh /tmp/install.sh && source /etc/profile &> /dev/null
 ```
 2. 仅校内地址走校园网，其它走宽带
 ```
 #使用curl安装
-export url='https://gitee.com/chinazyq/ECUST-openwrt/raw/master' && sh -c "$(curl -kfsSl $url/install_onlyschool.sh)" && source /etc/profile &> /dev/null
+export url='https://gitee.com/bestzyq/ECUST-openwrt/raw/master' && sh -c "$(curl -kfsSl $url/install_onlyschool.sh)" && source /etc/profile &> /dev/null
 ```
 ```
 #使用wget安装
-export url='https://gitee.com/chinazyq/ECUST-openwrt/raw/master' && wget -q --no-check-certificate -O /tmp/install_onlyschool.sh $url/install_onlyschool.sh  && sh /tmp/install_onlyschool.sh && source /etc/profile &> /dev/null
+export url='https://gitee.com/bestzyq/ECUST-openwrt/raw/master' && wget -q --no-check-certificate -O /tmp/install_onlyschool.sh $url/install_onlyschool.sh  && sh /tmp/install_onlyschool.sh && source /etc/profile &> /dev/null
 ```
 
 ## 结语

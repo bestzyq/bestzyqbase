@@ -6,7 +6,7 @@ date: 2024-05-16 23:05:20
 ### Hi there 👋
 
 - 🔭 I’m currently a student of [East China University of Science and Technology](https://ecust.edu.cn/en/main.psp), majoring in Energy and Power Engineering, minoring in Computer Science and Technology.
-- 💬 Ask me about anything: [Github](https://github.com/chinazyq123/chinazyq123/issues) or [Gitee](https://gitee.com/chinazyq/chinazyq/issues)
+- 💬 Ask me about anything: [Github](https://github.com/bestzyq/bestzyq/issues) or [Gitee](https://gitee.com/bestzyq/bestzyq/issues)
 - 📫 How to reach me: [chinazyq@mail.ecust.edu.cn](mailto:chinazyq@mail.ecust.edu.cn)
 
 ✨ Have a nice day! ✨
