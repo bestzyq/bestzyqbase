@@ -18,7 +18,7 @@ categories: 网络
 
 总体看还是很不错的，但是一些地区会访问失败，这就很难受了：
 
-![](https://pic1.zhimg.com/80/v2-85f8b2c9f48ab4d3d7ea97f51ea2010a_1440w.png)
+![](https://pic6.zhimg.com/80/v2-85f8b2c9f48ab4d3d7ea97f51ea2010a_1440w.png)
 
 # Vercel
 Vercel的情况会好一点，只有一个无法访问，而且几乎是全国深绿
