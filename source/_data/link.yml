@@ -61,6 +61,6 @@
       descr: 本网站使用的框架美化方案教程
     - name: Butterfly github
       link: https://github.com/jerryc127/hexo-theme-butterfly
-      avatar: https://fastly.jsdelivr.net/gh/jerryc127/hexo-theme-butterfly@latest/source/img/butterfly-icon.png
+      avatar: https://cdn.jsdmirror.com/gh/jerryc127/hexo-theme-butterfly@latest/source/img/butterfly-icon.png
       descr: 本网站使用的框架美化方案github库
 
