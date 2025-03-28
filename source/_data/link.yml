@@ -1,9 +1,9 @@
 - class_name: 朋友
   link_list:
-    - name: Supernuts
-      link: https://supernuts.top/
-      avatar: https://supernuts.top/wp-content/uploads/2024/07/1720033371-b_9b3090bd04f36c34d8f029768d76a3c8.jpg
-      descr: Supernuts
+    # - name: Supernuts
+    #   link: https://supernuts.top/
+    #   avatar: https://supernuts.top/wp-content/uploads/2024/07/1720033371-b_9b3090bd04f36c34d8f029768d76a3c8.jpg
+    #   descr: Supernuts
     - name: Palpitate.xus
       link: https://blog.ecust.fun/
       avatar: https://blog.ecust.fun/img/avatar.jpg
@@ -17,7 +17,7 @@
       avatar: https://cdn.jsdmirror.com/gh/hololo19/hololo19.github.io@master/img/avatar.jpg
       descr: Holoの窝
     - name: 辉夜
-      link: https://teruenight.github.io/
+      link: https://www.noctuna.cc/
       avatar: https://blogpic-5qb.pages.dev/img/avatar/neko.jpg
       descr: 尘世之外の咖啡屋
     - name: UKEricPZ
