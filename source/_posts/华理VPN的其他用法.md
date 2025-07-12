@@ -25,7 +25,7 @@ categories: 网络
 ### 浏览器收藏夹法
 编辑收藏夹中==>新建==>输入名称:SSLVPN==>输入URL:
 ```
-javascript:location.href = "https://" + location.hostname.replace(/\./g, '-') + ".sslvpn.ecust.edu.cn:8118" + location.pathname + location.search;
+javascript:location.href="https://"+location.hostname.replace(/\./g,'-')+(location.port?("-"+location.port+"-p"):"")+(location.protocol=="https:"?"-s":"")+".sslvpn.ecust.edu.cn:8118"+location.pathname+location.search;
 ```
 在想访问的界面中，点击收藏夹中的SSLVPN即可
 
