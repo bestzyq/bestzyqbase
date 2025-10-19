@@ -14,15 +14,15 @@ categories: 网络
 
 不过，让我们看下Github Page的国内网络访问测试：
 
-![](https://picx.zhimg.com/80/v2-cc6fcdacad3214cd65203a4af6a4aa9a_1440w.png)
+![](https://pic2.zhimg.com/80/v2-cc6fcdacad3214cd65203a4af6a4aa9a_1440w.png)
 
 总体看还是很不错的，但是一些地区会访问失败，这就很难受了：
 
-![](https://pic6.zhimg.com/80/v2-85f8b2c9f48ab4d3d7ea97f51ea2010a_1440w.png)
+![](https://pic2.zhimg.com/80/v2-85f8b2c9f48ab4d3d7ea97f51ea2010a_1440w.png)
 
 # Vercel
 Vercel的情况会好一点，只有一个无法访问，而且几乎是全国深绿
-![](https://picx.zhimg.com/80/v2-1c1c7135ff575dd8ecf5e0e7aa44a535_1440w.png)
+![](https://pic2.zhimg.com/80/v2-1c1c7135ff575dd8ecf5e0e7aa44a535_1440w.png)
 
 # 那如何使用Vercel呢？
 其实非常简单，只需要进入[Vercel](https://vercel.com/)，绑定自己的Github，引入自己想要部署的仓库，创建并绑定自定义域名即可快速享用！
