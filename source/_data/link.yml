@@ -6,27 +6,27 @@
     #   descr: Supernuts
     - name: Palpitate.xus
       link: https://blog.ecust.fun/
-      avatar: https://blog.ecust.fun/img/avatar.jpg
+      avatar: https://pic2.zhimg.com/80/v2-32ff37aaa87f854a8b5bbe68168dc9a0_xl.jpeg
       descr: Palpitate's Blog
     - name: Eric
       link: https://www.ecust.icu/
-      avatar: https://cdn.jsdelivr.net/gh/UKEricPZ/blogimage@main/b_807cbe92f38534bcbeb84c002fa31985.jpg
+      avatar: https://pic2.zhimg.com/80/v2-ea98d015d1d931dd8c6cd3682bf9927b_xl.jpeg
       descr: 老张的后花园
     - name: Holo
       link: http://hololo19.github.io/
-      avatar: https://cdn.jsdelivr.net/gh/hololo19/hololo19.github.io@master/img/avatar.jpg
+      avatar: https://pic2.zhimg.com/80/v2-d356245bc19f9d1ee0332946175491eb_xl.jpeg
       descr: Holoの窝
     - name: 辉夜
       link: https://www.noctuna.cc/
-      avatar: https://cdn.jsdelivr.net/gh/Harukuya/blogpic@main/img/avatar/neko.jpg
+      avatar: https://pic2.zhimg.com/80/v2-df868eb3b8561043de6a2ddaa2364d97_xl.jpeg
       descr: 尘世之外の咖啡屋
     - name: UKEricPZ
       link: https://blog.ukericpz.com/
-      avatar: https://cdn.jsdelivr.net/gh/UKEricPZ/blogimage@main/avatar.png
+      avatar: https://pic2.zhimg.com/80/v2-3c08db94d7b4615f69513308175efb28_xl.jpeg
       descr: 乆鸽 UKEricPZ
     - name: 文野
       link: https://wenye01.github.io/
-      avatar: https://cdn.jsdelivr.net/gh/wenye01/wenye01.github.io/img/profile.jpg
+      avatar: https://pic2.zhimg.com/80/v2-d9380a0dad8e73987230803c849ecf22_xl.jpeg
       descr: 文野
       
 - class_name: 组织
