@@ -34,8 +34,8 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-git-alt: https://gitee.com/chinazyq || Gitee || '#e61800'
-  fas fa-envelope: mailto:bestzyq@foxmail.com || Email || '#4a7dbe'
+  fab fa-git-alt: https://cnb.cool/bestzyq || Gitee || '#e61800'
+  fas fa-envelope: mailto:bestzyq@bestzyq.cn || Email || '#4a7dbe'
 
 # Image (圖片設置)
 # --------------------------------------
@@ -232,7 +232,7 @@ aside:
       enable: true
       icon: fab fa-git-alt
       text: Follow Me
-      link: https://gitee.com/chinazyq
+      link: https://cnb.cool/bestzyq
   card_announcement:
     enable: true
     content: 欢迎来到ZDisk！

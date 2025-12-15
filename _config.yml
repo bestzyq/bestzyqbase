@@ -116,8 +116,8 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-- type: git
-  repo: https://gitee.com/bestzyq/bestzyq
-  branch: master
-  message: Site updated
+# - type: git
+#   repo: https://gitee.com/bestzyq/bestzyq
+#   branch: master
+#   message: Site updated
 - type: baidu_url_submitter
