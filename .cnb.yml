@@ -26,9 +26,9 @@ master:
       stages:
         # 构建当前项目
         - name: Build Current Project
-          image: node:20
+          image: docker.cnb.cool/arsrna/dev-env/node22
           script: node -v && npm install && npm run build
         # 将构建输出部署到 EdgeOne Pages
         - name: Deploy to EdgeOne Pages
-          image: node:20
-          script: npx edgeone pages deploy ./public -n bestzyq -t $EDGEONE_API_TOKEN
+          image: tencentcom/deploy-eopages:latest
+          script: edgeone pages deploy ./public -n bestzyq -t $EDGEONE_API_TOKEN
