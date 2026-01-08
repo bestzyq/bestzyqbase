@@ -21,7 +21,7 @@ master:
             password: ${GITHUB_ACCESS_TOKEN}
     - name: edgeone
       runner:
-        cpus: 2
+        cpus: 1
       imports: https://cnb.cool/bestzyq/key/-/blob/main/env.yml
       stages:
         # 构建当前项目
