@@ -35,7 +35,7 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-git-alt: https://cnb.cool/bestzyq || Gitee || '#e61800'
+  icon-cnb-logo: https://cnb.cool/bestzyq || CNB || '#e61800'
   fas fa-envelope: mailto:bestzyq@bestzyq.cn || Email || '#4a7dbe'
 
 # Image (圖片設置)
@@ -258,7 +258,7 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-git-alt
+      icon: icon-cnb-logo
       text: Follow Me
       link: https://cnb.cool/bestzyq
   card_announcement:
@@ -941,6 +941,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/css/custom.css">
   bottom:
     # - <script src="xxxx"></script>
 

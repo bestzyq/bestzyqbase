@@ -1,0 +1,32 @@
+/* CNB Logo 自定义图标 */
+i.icon-cnb-logo {
+  display: inline-block !important;
+  width: 1em !important;
+  height: 1em !important;
+  font-size: inherit !important;
+  line-height: 1 !important;
+  background-image: url(https://docs.cnb.cool/images/logo/svg/Symbol-Color.svg) !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  vertical-align: -0.125em !important;
+}
+
+i.icon-cnb-logo::before {
+  content: none !important;
+}
+
+/* 社交栏中的 CNB 图标 hover 旋转效果，与其他图标一致 */
+.card-info-social-icons i.icon-cnb-logo {
+  transition: all .3s !important;
+}
+
+.card-info-social-icons i.icon-cnb-logo:hover {
+  transform: rotate(360deg) !important;
+}
+
+/* Follow Me 按钮中的 CNB 图标颜色跟随按钮 */
+#card-info-btn i.icon-cnb-logo {
+  filter: brightness(0) invert(1) !important;
+  vertical-align: -0.15em !important;
+}
