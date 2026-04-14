@@ -6,27 +6,27 @@
     #   descr: Supernuts
     - name: Palpitate.xus
       link: https://blog.ecust.fun/
-      avatar: https://pic2.zhimg.com/80/v2-32ff37aaa87f854a8b5bbe68168dc9a0_xl.jpeg
+      avatar: /link/palpitate.jpeg
       descr: Palpitate's Blog
     - name: Eric
       link: https://www.ecust.icu/
-      avatar: https://pic2.zhimg.com/80/v2-ea98d015d1d931dd8c6cd3682bf9927b_xl.jpeg
+      avatar: /link/eric.jpeg
       descr: 老张的后花园
     - name: Holo
       link: http://hololo19.github.io/
-      avatar: https://pic2.zhimg.com/80/v2-d356245bc19f9d1ee0332946175491eb_xl.jpeg
+      avatar: /link/holo.jpeg
       descr: Holoの窝
     - name: 辉夜
       link: https://www.noctuna.cc/
-      avatar: https://pic2.zhimg.com/80/v2-df868eb3b8561043de6a2ddaa2364d97_xl.jpeg
+      avatar: /link/kaguya.jpeg
       descr: 尘世之外の咖啡屋
     - name: UKEricPZ
       link: https://blog.ukericpz.com/
-      avatar: https://pic2.zhimg.com/80/v2-3c08db94d7b4615f69513308175efb28_xl.jpeg
+      avatar: /link/ukericpz.jpeg
       descr: 乆鸽 UKEricPZ
     - name: 文野
       link: https://wenye01.github.io/
-      avatar: https://pic2.zhimg.com/80/v2-d9380a0dad8e73987230803c849ecf22_xl.jpeg
+      avatar: /link/wenye.jpeg
       descr: 文野
       
 - class_name: 组织
@@ -34,41 +34,41 @@
   link_list:
     - name: ECUSTMC
       link: https://mc.ecustvr.top/
-      avatar: https://pic2.zhimg.com/80/v2-9a793a9814442bab394bd2c974d7899e_1440w.jpeg
+      avatar: /link/ecustmc.jpeg
       descr: 华东理工大学方块乐享部
     - name: ECUSTVR
       link: https://www.ecustvr.top/
-      avatar: https://cs.s.ecust.edu.cn/star3/origin/de92cbe9ea044a985c7fb85bf010dd14.png
+      avatar: /link/ecustvr.png
       descr: 华东理工大学VR俱乐部
     - name: ECUSTCIC
       link: https://www.ecustcic.com/
-      avatar: https://pic2.zhimg.com/80/v2-5d1ea7ea4ad9a2b2b43df9fed6e0d05b_l.png
+      avatar: /link/ecustcic.png
       descr: 华东理工大学计算机信息交流协会
     - name: ECUSTWIKI
       link: https://wiki.ecustvr.top/
-      avatar: https://www.ecust.edu.cn/_upload/tpl/00/2c/44/template44/images/logo.png
+      avatar: /link/ecustwiki.png
       descr: ECUSTWIKI（花梨百科）
     - name: ECUSTMC-SKIN
       link: https://mcskin.ecustvr.top/
-      avatar: https://mcskin.ecustvr.top/app/favicon.ico
+      avatar: /link/ecustmc-skin.ico
       descr: ECUSTMC（我的世界）皮肤站
     - name: ECUSTLINK
       link: https://www.ecustvr.top/dh.html
-      avatar: https://cs.s.ecust.edu.cn/star3/origin/de92cbe9ea044a985c7fb85bf010dd14.png
+      avatar: /link/ecustvr.png
       descr: 网址导航 - VR俱乐部
 
 - class_name: 网站框架
   link_list:
     - name: Hexo
       link: https://hexo.io/zh-tw/
-      avatar: https://hexo.io/logo.svg
+      avatar: /link/hexo.svg
       descr: 快速、简单且强大的网志框架
     - name: Butterfly
       link: https://butterfly.js.org/
-      avatar: https://butterfly.js.org/img/butterfly-icon.png
+      avatar: /link/butterfly.png
       descr: 本网站使用的框架美化方案教程
     - name: Butterfly github
       link: https://github.com/jerryc127/hexo-theme-butterfly
-      avatar: https://butterfly.js.org/img/butterfly-icon.png
+      avatar: /link/butterfly.png
       descr: 本网站使用的框架美化方案github库
 
